@@ -1,6 +1,8 @@
 ### Hello World ! :earth_americas:
 
-My name is Igor and I'm working as DevOps 🔭
+- 🔭 I’m currently working as DevOps (trainee)
+- 🌱 I’m currently learning more about DevOps culture
+- 🎯 I’m studying for aws solutions architect certification
 
 #### 🚀 Skills 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
@@ -12,10 +14,11 @@ My name is Igor and I'm working as DevOps 🔭
 ----
 <div>
 <a href="https://github.com/igorferrati">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrati&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorferrati&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorferrati&&layout=compact&theme=dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorferrati&show_icons=true&hide_border=true&theme=dark"/>
 </div>
-  
+
+ 
 </br>
 
 <div>

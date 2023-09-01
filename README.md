@@ -1,6 +1,6 @@
 ### Hello World ! :earth_americas:
 
-- 🔭 I’m currently working as DevOps (trainee) and learning about DevOps culture
+- 🔭 I’m currently working as DevOps (trainee) and learning about it !
 
 #### 🚀 Skills 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>

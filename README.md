@@ -1,8 +1,6 @@
 ### Hello World ! :earth_americas:
 
-- 🔭 I’m currently working as DevOps (trainee)
-- 🌱 I’m currently learning more about DevOps culture
-- 🎯 I’m studying for aws solutions architect certification
+- 🔭 I’m currently working as DevOps (trainee) and learning about DevOps culture
 
 #### 🚀 Skills 
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>

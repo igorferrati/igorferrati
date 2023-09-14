@@ -10,6 +10,8 @@
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
 <code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/></code>
 <code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/></code>
+<code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-plain.svg"/></code>
+<code> <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/></code>
 
 
 ----

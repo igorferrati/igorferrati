@@ -1,6 +1,6 @@
 ### Hello World ! :earth_americas:
 
-- 🔭 I’m currently working as DevOps (trainee) and learning about it !
+:radio_button: I’m currently working as DevOps (trainee) and learning about it !
 
 ----
 <div>

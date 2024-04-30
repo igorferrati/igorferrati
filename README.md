@@ -1,4 +1,4 @@
-:radio_button: DevOps
+DevOps
 
 ----
 <div>
